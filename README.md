@@ -1,6 +1,6 @@
 # Hey, I'm Aurik
 
-I'm a Computer Science student at Queen's University building things that sit between hardware and software.
+I'm a Computer Engineering student at Queen's University building things that sit between hardware and software.
 
 I like working close to the metal — DSP pipelines, memory-mapped object pools, native FFI — and then shipping the result as something people can actually use on their phone or desktop.
 
@@ -20,7 +20,7 @@ I like working close to the metal — DSP pipelines, memory-mapped object pools,
 
 ## Currently
 
-- Studying CS at Queen's (2nd year, Software Design stream)
+- Studying Computer Engineering (Blended) at Queen's
 - Building [Shin](https://my-project-shin.vercel.app) — shipping weekly
 - Looking for Summer 2027 internships in systems or full-stack engineering
 
