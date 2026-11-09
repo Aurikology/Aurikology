@@ -8,6 +8,8 @@ Computer Engineering student at Queen's University. I build pipelines that pull 
 
 **[nq-quant](https://github.com/Aurikology/nq-quant)**: an intraday backtester for Nasdaq-100 futures in Python (NumPy, pandas). It detects patterns without look-ahead, uses a deliberately pessimistic fill model, puts bootstrap confidence intervals on returns, runs a permutation test against random entries, and picks parameters in-sample before reporting them out-of-sample. The README reports what the data does and doesn't support.
 
+**[SolGraph](https://github.com/Aurikology/solgraph)**: a read-only Solana assistant. A LangChain agent answers questions about wallets using a graph of wallets, tokens and transfers stored in Apache AGE (Cypher on PostgreSQL). Transfers are worked out from each transaction's balance changes rather than parsed instructions, so swaps are handled correctly. It holds no private keys and can only call an allowlist of read-only tools. Checked against live devnet.
+
 **[Pexi](https://github.com/Aurikology/shin)** (repo: shin): a price-check app with a mascot. Point the phone at something and it tells you whether the price is a steal or a ripoff. TypeScript and Next.js on Vercel, with Gemini for product identification, a 4M+ product catalogue and an iOS build through Capacitor. Built with a cofounder; 900+ commits.
 
 **[128Tick Server Simulation](https://github.com/Aurikology/128Tick-Server-Simulation)**: a C++17 microsecond benchmark of heap allocation against contiguous memory, for 128-tick game-server budgets, using an RAII `std::chrono` timer.
@@ -19,6 +21,8 @@ Computer Engineering student at Queen's University. I build pipelines that pull 
 `Python` `NumPy` `pandas` `pytest` `C++` `Dart/Flutter` `TypeScript` `JavaScript`
 
 `Next.js` `React` `Node.js` `Electron` `Capacitor` `CMake` `Vercel` `Git`
+
+`LangChain` `Apache AGE` `Cypher` `FastAPI` `Solana`
 
 `DSP` `time series` `backtesting` `statistical testing` `FFI`
 
