@@ -33,7 +33,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,py,ts,dart,flutter,nextjs,react,nodejs,fastapi,postgres,redis,docker,linux,git,vercel,githubactions&perline=8&theme=dark">
-    <img alt="C++, Python, TypeScript, Dart, Flutter, Next.js, React, Node.js, FastAPI, PostgreSQL, Redis, Docker, Linux, Git, Vercel, GitHub Actions" src="https://skillicons.dev/icons?i=cpp,py,ts,dart,flutter,nextjs,react,nodejs,fastapi,postgres,redis,docker,linux,git,vercel,githubactions&perline=8&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
+    <img alt="C++, Python, TypeScript, Dart, Flutter, Next.js, React, Node.js, FastAPI, PostgreSQL, Redis, Docker, Linux, Git, Vercel, GitHub Actions" src="assets/skills-light.svg" width="60%">
   </picture>
 </p>
