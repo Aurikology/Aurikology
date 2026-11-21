@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Aurik Disler. Computer Engineering at Queen's. I build systems that get measured before they're trusted." src="assets/header-light.svg" width="100%">
+  <img alt="Aurik Disler. Software Engineering at Queen's. I build systems that get measured before they're trusted." src="assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">
