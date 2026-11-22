@@ -92,7 +92,7 @@ def header(t: dict) -> str:
 </g>
 <rect x=".75" y=".75" width="{W - 1.5}" height="{H - 1.5}" rx="18" fill="none" stroke="{t["border"]}" stroke-width="1.5"/>
 <text x="70" y="136" font-family="{FONT}" font-size="88" font-weight="800" letter-spacing="-2.5" fill="url(#g)">Aurik Disler</text>
-<text x="74" y="188" font-family="{FONT}" font-size="27" fill="{t["text"]}">Computer Engineering @ Queen's. I build systems</text>
+<text x="74" y="188" font-family="{FONT}" font-size="27" fill="{t["text"]}">Software Engineering @ Queen's. I build systems</text>
 <text x="74" y="222" font-family="{FONT}" font-size="27" fill="{t["text"]}">that get measured before they're trusted.</text>
 {typing(t, 74, 270)}
 </svg>'''
